@@ -4,7 +4,7 @@
 
 On Day 1, we learn about implementing a dynamic timeline component with TypeScript. Feature an animated hover effect for a visually appealing user experience.
 
-https://github.com/mustafaazad03/ComponentsCountdown-private/assets/97380192/c700c4b6-c2cb-4fd2-8ad4-d2c0dd6e91db
+https://github.com/mustafaazad03/30-days-component-countdown/assets/97380192/6db5f657-153c-4d22-87be-00f24be367ae
 
 ### Task
 
